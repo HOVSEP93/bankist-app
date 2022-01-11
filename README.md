@@ -5,6 +5,7 @@ Bankist app is a web app created using HTML, CSS and JS. It can perform actions 
 Live Preview:
 
 username	pin
+
 hs	1111
 
 js	2222
