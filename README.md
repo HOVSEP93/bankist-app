@@ -18,10 +18,15 @@ tl 5555
 
 
 Technologies used
+
 HTML
+
 CSS
+
 JavaScript
+
 Internationalization API
+
 Open Graph Meta Tags
 
 
